@@ -10,8 +10,8 @@ To try the examples in Expo, please change `main` to `./node_modules/expo/AppEnt
 
 ## Import components
 
-1. `yarn add react-native-chart-kit`
-2. `yarn add react-native-svg` install peer dependencies
+1. `npm install react-native-chart-kit`
+2. `npm install react-native-svg` install peer dependencies
 3. Use with ES6 syntax to import components
 
 ```js
